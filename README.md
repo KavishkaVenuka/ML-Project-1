@@ -17,6 +17,7 @@ The classification is based on four features :
 
 
 Project Structure :
+
     #Data Loading: Iris dataset is loaded from an external CSV file. [url = https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv]
     #Data Visualization: Visual exploration using Seaborn and Matplotlib to understand feature distributions and relationships.
     #Model Selection: A Support Vector Machine (SVM) classifier is trained.
