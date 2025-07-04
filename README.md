@@ -24,6 +24,7 @@ Project Structure :
     #Model Evaluation: Performance is assessed using accuracy score and a classification report.
 
 Technologies Used : 
+
     #Python
     #Pandas
     #NumPy
