@@ -23,7 +23,7 @@ Project Structure :
     #Model Selection: A Support Vector Machine (SVM) classifier is trained.
     #Model Evaluation: Performance is assessed using accuracy score and a classification report.
 
-Technologies Used
+Technologies Used : 
     #Python
     #Pandas
     #NumPy
